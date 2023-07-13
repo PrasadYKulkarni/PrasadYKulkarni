@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @PrasadYKulkarni
 - 👀 I’m interested to learn new technologies, Strategies and tools 
 - 🌱 I’m currently learning Software Development Course
--  I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- ☑️ Strong commands in Java, J2EE, SQL
 
 <!---
 PrasadYKulkarni/PrasadYKulkarni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
